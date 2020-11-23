@@ -3,6 +3,7 @@ Script "check_json.py" das check of json files with filename extension ".json"  
 Script must be in folder has subfolders /event/ and /schema/.
 Json files must be in folder /event/ always.
 Jsonschema files must be in folder /schema/ always.
+Script checks each json file in folder /event/ by each jsonschema files in folder /schema/.
 Script work result is log-file has name of json file and filename extension ".log"
 
 Format of log-file is showed below.
