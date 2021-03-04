@@ -1,5 +1,5 @@
 # check_jason2311
-Script "check_json2311.py" das check of json files with filename extension ".json"  by jsonschema files with filename extension ".schema".
+Script "check_json2311.py" das check of json files has filename extension ".json"  by jsonschema files has filename extension ".schema".
 Script must be in folder has subfolders /event/ and /schema/.
 Json files must be in folder /event/ always.
 Jsonschema files must be in folder /schema/ always.
